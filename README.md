@@ -4,7 +4,7 @@
 
 💼 Full Stack Software Developer @ Leidos
 
-🎓 Studying Honours Software Engineering at the Univeristy of Strathclyde, Class of 2018
+🎓 2:1 Honours Software Engineering at the Univeristy of Strathclyde, Class of 2018
 
 ## 📫 How to reach me...
 
